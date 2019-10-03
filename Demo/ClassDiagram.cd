@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Demo">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABAAAAAAAAAAAAAAAAAAAAAAQAQAEAAAUAAA=</HashCode>
+      <FileName>Demo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainWindow">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAIAAAAEAAAAAABAQAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Main_Window.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Raycaster">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBACAAMAAAAASAAAAAAAAAgAABAgDAAAAAwAAUAAg=</HashCode>
+      <FileName>Raycaster.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Floor" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Stale.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="wall">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAABAAAAAAABAIAAAAAAgAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>Stale.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
